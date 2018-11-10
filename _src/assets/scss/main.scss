@@ -9,6 +9,9 @@ body {
     width: 600px;
     margin: auto;
     margin-top: 10vh;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
 }
 
 .box{
